@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Kunal
+
+Welcome to my GitHub! I'm an **Entry-Level Data Scientist** with hands-on experience in developing **end-to-end data projects**, including:
+
+- 🔍 **Web Scraping** and automation pipelines  
+- 🧹 **Data Cleaning & Analysis** using **MySQL**, **Pandas**, and **Apache Spark**  
+- 🤖 **AI Solutions** built with **Generative AI** and **Large Language Models (LLMs)**  
+- 🛠️ Tools: Python, FastAPI, Git, Azure, Jupyter, and more
+
+---
+
+## 🌱 About Me
+
+- 📍 Based in Rajasthan, India  
+- 🧠 Always learning new tools, especially in AI & automation  
+- 💼 Currently working as an **Associate Data Scientist**  
+- 🧰 Building scalable solutions for data anomalies, manual task automation, and efficient pipelines
 
 <!--
-**khandelwalkunal779/khandelwalkunal779** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 📌 Pinned Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Check out some of my key repositories:
+
+- 🕸️ **Web Scraper Pipelines** – Multiprocessing-enhanced scraping tools  
+- 📈 **Data Analysis Notebooks** – Exploratory and statistical insights  
+- 🤖 **GenAI Bots** – AI assistants powered by LLMs  
+- 📡 **Email Automation Bot** – Smart email reader, responder & logger
+
 -->
+
+## 📫 Let's Connect
+
+- 💼 https://www.linkedin.com/in/khandelwalkunal779/
+
+---
+
+Thanks for stopping by! Feel free to explore and reach out. 🚀
