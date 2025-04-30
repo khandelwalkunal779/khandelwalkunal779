@@ -12,8 +12,9 @@ Welcome to my GitHub! I'm an **Entry-Level Data Scientist** with hands-on experi
 ## 🌱 About Me
 
 - 📍 Based in Rajasthan, India  
+- 💼 Currently working as an **Associate Data Scientist**
+- 🏫 Studied from **Indian Institute of Technology Roorkee**
 - 🧠 Always learning new tools, especially in AI & automation  
-- 💼 Currently working as an **Associate Data Scientist**  
 - 🧰 Building scalable solutions for data anomalies, manual task automation, and efficient pipelines
 
 <!--
