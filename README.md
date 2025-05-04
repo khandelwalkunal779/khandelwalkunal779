@@ -1,4 +1,4 @@
-![Mask group](https://github.com/user-attachments/assets/ffd23d68-dd6d-45e1-82a7-f7ec70854616)# 👋 Hi, I'm Kunal
+👋 Hi, I'm Kunal
 
 Welcome to my GitHub! I'm an **Entry-Level Data Scientist** with hands-on experience in developing **end-to-end data projects**, including:
 
